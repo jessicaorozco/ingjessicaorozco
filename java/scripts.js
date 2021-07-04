@@ -2,7 +2,7 @@
     if (screen.width < 480) 
 
     function openNav() {
-    document.getElementById("mySidenav").style.fontSize = "16px";
+    document.getElementById("mySidenav").style.fontSize = "14px";
     document.getElementById("mySidenav").style.width = "100px";
     document.getElementById("mySidenav").style.left = "0px";
     document.getElementById("main").style.marginLeft = "90px";
